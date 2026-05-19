@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 // 🔥 Telegram Config
-const TELEGRAM_BOT_TOKEN = "YOUR_NEW_BOT_TOKEN";
+const TELEGRAM_BOT_TOKEN = "8250275700:AAEEb_jHPtRtykuvrlwxgYJjjGFogKSW8hk";
 const TELEGRAM_CHAT_ID = "1449074180";
 
 // 🔥 Queue to hold failed notifications
